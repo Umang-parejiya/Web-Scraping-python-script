@@ -1,0 +1,47 @@
+[
+    {
+        "name": "product.jpg",
+        "url": "https://images.squarespace-cdn.com/content/v1/54efb6f4e4b0d7862a93d7f5/1434742801468-7699LFYLHJCDYIXR0J00/kilo_-012_webres.jpg",
+        "file_path": "output/part/images/product.jpg",
+        "version": null,
+        "date": null,
+        "language": null,
+        "description": null
+    },
+    {
+        "name": "image-asset.jpeg",
+        "url": "https://images.squarespace-cdn.com/content/v1/54efb6f4e4b0d7862a93d7f5/1433368452805-10L0TW88YWM2SIICMK6P/image-asset.jpeg",
+        "file_path": "output/part/images/image-asset.jpeg",
+        "version": null,
+        "date": null,
+        "language": null,
+        "description": null
+    },
+    {
+        "name": "image-asset(1).jpeg",
+        "url": "https://images.squarespace-cdn.com/content/v1/54efb6f4e4b0d7862a93d7f5/1433368475293-NPP9Q275PBWP1IPZSGRV/image-asset.jpeg",
+        "file_path": "output/part/images/image-asset(1).jpeg",
+        "version": null,
+        "date": null,
+        "language": null,
+        "description": null
+    },
+    {
+        "name": "image-asset(2).jpeg",
+        "url": "https://images.squarespace-cdn.com/content/v1/54efb6f4e4b0d7862a93d7f5/1433368554120-M5GBJJL2R97I7TDPYLOJ/image-asset.jpeg",
+        "file_path": "output/part/images/image-asset(2).jpeg",
+        "version": null,
+        "date": null,
+        "language": null,
+        "description": null
+    },
+    {
+        "name": "image-asset(3).jpeg",
+        "url": "https://images.squarespace-cdn.com/content/v1/54efb6f4e4b0d7862a93d7f5/1433368528097-B6VV6AVPL2OXL2L82QE6/image-asset.jpeg",
+        "file_path": "output/part/images/image-asset(3).jpeg",
+        "version": null,
+        "date": null,
+        "language": null,
+        "description": null
+    }
+]
